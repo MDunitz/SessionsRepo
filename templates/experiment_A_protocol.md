@@ -4,13 +4,6 @@
 ## Pretests
 - [Name](link_to_protocol)
 
-## Prior Experiment Runs
-
-- [Name](link_to_protocol)
-
-## Experiment 
-### Description:
-
 
 ### Goal:
 
