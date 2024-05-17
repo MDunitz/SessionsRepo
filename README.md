@@ -39,6 +39,8 @@ Files that may not be code, but are important for reproducibility of your findin
 * **`materials`**: Information regarding the materials used in your experiments or data generation. This could include manufacturer information, records of purity, and/or lot and catalog numbers.
 * **`software details`**: Information about your computational environment that are necessary for others to execute your code. This includes details about your operating system, software version and required packages.
 
+Cats
+
 ### **`tests`** 
 All test suites for your code. *Any custom code you've written should be thoroughly and adequately tested to make sure you know how it is working.*
 
